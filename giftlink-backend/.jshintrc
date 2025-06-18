@@ -1,0 +1,13 @@
+{
+  "esversion": 8,
+  "strict": "true",
+  "unused": "true",
+  "undef": "true",
+  "node": true,
+  "curly": true,
+  "eqeqeq": true,
+  "camelcase": true,
+  "indent": 2,
+  "quotmark": "double",
+  "maxlen": 120
+}
