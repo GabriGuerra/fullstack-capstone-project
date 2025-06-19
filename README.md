@@ -6,9 +6,9 @@ GiftLink é uma aplicação web full-stack que conecta usuários que desejam doa
 
 ## Project Overview | Visão Geral
 
-This project was developed as a capstone for a Full-Stack Web Development course. GiftLink enables users to list, browse, and claim free household items, encouraging sustainability and community sharing.
+This project was developed as a capstone for IBM Full-Stack Development course. GiftLink enables users to list, browse, and claim free household items, encouraging sustainability and community sharing.
 
-Este projeto foi desenvolvido como parte final de um curso de Desenvolvimento Web Full-Stack. O GiftLink permite que os usuários publiquem, busquem e solicitem itens domésticos gratuitos, incentivando a sustentabilidade e a economia colaborativa.
+Este projeto foi desenvolvido como parte final do curso IBM de Desenvolvimento Full-Stack. O GiftLink permite que os usuários publiquem, busquem e solicitem itens domésticos gratuitos, incentivando a sustentabilidade e a economia colaborativa.
 
 ## Technologies Used | Tecnologias Utilizadas
 
